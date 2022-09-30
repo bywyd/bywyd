@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bywyd 
-- Fazlasıyla SÜMÖRFİNGEN!
+- Extremely SÜMÖRFİNGEN!
 - PHP, JavaScript, TypeScript, C++, C#, CSS, HTML5, VueJS, NodeJS, Laravel, ASP.NET, SQL  
-- Currently developing a B2C booking channel as full-stack and working on a renting website as full-stack development 
-- mesathehunter@gmail.com, Do not get used to this email I'll got myown link!
+- Currently working on B2C Channel management, Tour Operating and Renting website projects as fullstack developer
+- mesathehunter@gmail.com
 
 <!---
 bywyd/bywyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
