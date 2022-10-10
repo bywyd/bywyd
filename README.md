@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bywyd 
 - Extremely SÜMÖRFİNGEN!
-- PHP, JavaScript, TypeScript, C++, C#, CSS, HTML5, VueJS, NodeJS, Laravel, ASP.NET, SQL  
-- Currently working on B2C Channel management, Tour Operating and Renting website projects as fullstack developer
+- PHP, JavaScript, TypeScript, CSS, HTML5, VueJS, NodeJS, Laravel, SQL
 - mesathehunter@gmail.com
 
 <!---
