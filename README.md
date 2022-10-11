@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bywyd 
-- Extremely SÜMÖRFİNGEN!
 - PHP, JavaScript, TypeScript, CSS, HTML5, VueJS, NodeJS, Laravel, SQL
 - mesathehunter@gmail.com
 
