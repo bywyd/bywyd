@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bywyd 
 - PHP, JavaScript, TypeScript, CSS, HTML5, VueJS, NodeJS, Laravel, SQL
-- Python, Django and flask on progress
+- Python, Django and flask also Ruby and Ruby on Rails on progress
 - mesathehunter@gmail.com
 
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bywyd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />-->
