@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @bywyd 
-- PHP, JavaScript, TypeScript, CSS, HTML5, VueJS, NodeJS, Laravel, SQL
-- Python, Django and flask also Ruby and Ruby on Rails on progress
-- At the same time trying to get good at git
-- mesathehunter@gmail.com <br />
+- You can contact with me by : mesathehunter@gmail.com <br />
 
 <h1>Completed Projects</h1>
 - none
